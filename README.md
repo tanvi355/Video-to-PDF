@@ -9,3 +9,6 @@ pip install -r requirements.txt
 ``
 
 [Sample Video Link](https://www.youtube.com/watch?v=rGHrKkieqCY)
+
+
+![image](https://user-images.githubusercontent.com/56465105/120308240-83424f80-c2f1-11eb-9f99-9ced6be472a0.png)
