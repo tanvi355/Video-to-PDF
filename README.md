@@ -7,6 +7,12 @@ To install all the dependencies just run the command :
 ``
 pip install -r requirements.txt
 ``
+## Modules used :
+- Speech Recognition
+- MoviePy
+- Tkinter
+- FPDF
+
 
 [Sample Video Link](https://www.youtube.com/watch?v=rGHrKkieqCY)
 
